@@ -1,0 +1,32 @@
+
+#tb1 { border-spacing: 20px; align-content: center; margin: 0 auto; position: relative; bottom: 150px;}
+#tb2 { border-spacing: 20px; align-content: center; margin: 0 auto; position: relative; bottom: 215px;}
+#tableHere { background-color:  rgb(124, 224, 254); width: 80%;
+            float: right; height: 100%;}
+#loginHere{ background-color:  rgb(124, 224, 254); width: 80%; text-align: center; min-height: 364px; padding-top: 80px;
+    float: right;}
+#inp{margin-left: 30px;}
+body{background-size: cover; background-color: rgb(124, 224, 254)}
+p{padding-left: 30px;}
+p.bg{color: red;}
+p.bk{color: orange;}
+p.fr{color: green;}
+tr td {overflow: hidden; text-align: center;}
+td.free {background-color: rgb(63, 202, 63); border: 1px solid black;}
+td.over{border: 1px solid red; background-color: rgb(63, 202, 63);}
+td.overbooked{border: 1px solid red; background-color: orange;}
+td.cli{border: 1px solid black; background-color: yellow;}
+td.booked{border: 1px solid black; background-color: orange;}
+td.bought{border: 1px solid black; background-color: red;}
+.header {background-color: #53A8FE; padding: 30px; text-align: center; font-size: 25px;}
+.subt { text-align: center; padding: 10px; background-color: #FE7C7C;}
+.sidenav {padding: 10px; margin-right: 690px; background-color: #53A8FE;
+            width: 19%; min-height: 100%}
+.sidenav a {
+    color: rgb(255, 45, 45);
+    padding: 16px;
+    text-decoration: none;
+    display: block;
+    }
+.sidenav a:hover{background-color: rgb(158, 204, 250); color: blue;}
+.alertt { color: red; text-align: center;}
